@@ -16,8 +16,8 @@
 
 ### Free Code Camp Progress
 
-  [Meghan's-Progress-FreeCodeCamp-PythonForEverybody](https://www.freecodecamp.org/learn/)
-
+  [Meghan's-Progress-FreeCodeCamp](https://www.freecodecamp.org/learn/)
+  -currently working on Python For Everybody
 
 
 
