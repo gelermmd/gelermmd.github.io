@@ -18,7 +18,7 @@
 
   [Meghan's-Progress-FreeCodeCamp](https://www.freecodecamp.org/learn/)
  
--currently working on Python For Everybody
+- Currently working on Python For Everybody
 
 
 
