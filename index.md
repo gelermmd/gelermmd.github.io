@@ -1,4 +1,4 @@
-  Hello, World!
+ ** Hello, World!**
  
   Welcome to Meghan Pages
 
@@ -22,24 +22,21 @@
 
 - 300 hours total (will most likely finish at the end of the semester)
 
+### Facts About Me
+
+- I am a sophomore ISAT Major
+
+- I am from Boston, MA
+
+- My older sister and brother both graduated from JMU
+
+- ISAT 252 is the first programming class I have ever taken
+
+- My goal in ISAT is to concentrate in Biotech
 
 
 
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gelermmd/gelermmd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
