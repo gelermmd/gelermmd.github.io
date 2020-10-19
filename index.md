@@ -3,9 +3,11 @@
   Welcome to Meghan Pages
 
 Here are links to projects I have completed so far:
-[Hello-World-Python](https://github.com/gelermmd/Hello-World-Python)
-[PG2KPL-Python](https://github.com/gelermmd/mpg2kpl-python)
-[Converters-TDD-Python](https://github.com/gelermmd/converters-tdd-python)
+  [Hello-World-Python](https://github.com/gelermmd/Hello-World-Python)
+
+  [PG2KPL-Python](https://github.com/gelermmd/mpg2kpl-python)
+
+  [Converters-TDD-Python](https://github.com/gelermmd/converters-tdd-python)
 
 
 ### Markdown
