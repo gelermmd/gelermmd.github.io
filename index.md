@@ -2,13 +2,6 @@
  
   Welcome to Meghan Pages
 
-Here are links to projects I have completed so far:
-  
-  [Hello-World-Python](https://github.com/gelermmd/Hello-World-Python)
-
-  [PG2KPL-Python](https://github.com/gelermmd/mpg2kpl-python)
-
-  [Converters-TDD-Python](https://github.com/gelermmd/converters-tdd-python)
 
 
 ### Completed Projects
@@ -21,12 +14,12 @@ Here are links to projects I have completed so far:
 
 
 
-```markdown
-Syntax highlighted code block
+### Free Code Camp Progress
 
-# Header 1
-## Header 2
-### Header 3
+  [Meghan's-Progress-FreeCodeCamp-PythonForEverybody](https://www.freecodecamp.org/learn/)
+
+
+
 
 - Bulleted
 - List
