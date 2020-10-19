@@ -11,9 +11,15 @@ Here are links to projects I have completed so far:
   [Converters-TDD-Python](https://github.com/gelermmd/converters-tdd-python)
 
 
-### Markdown
+### Completed Projects
+  
+  [Hello-World-Python](https://github.com/gelermmd/Hello-World-Python)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  [PG2KPL-Python](https://github.com/gelermmd/mpg2kpl-python)
+
+  [Converters-TDD-Python](https://github.com/gelermmd/converters-tdd-python)
+
+
 
 ```markdown
 Syntax highlighted code block
