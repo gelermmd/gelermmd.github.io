@@ -3,6 +3,12 @@
   Welcome to Meghan Pages
 
 
+### What I am working on this week
+
+Making website updates
+
+Starting the thrid coding challenge: Contributing to Open Source
+
 
 ### Completed Projects
   
