@@ -20,13 +20,12 @@
  
 - Currently working on Python For Everybody
 
+- 300 hours total (will most likely finish at the end of the semester)
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
