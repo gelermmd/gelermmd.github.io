@@ -9,6 +9,8 @@ Making website updates
 
 Starting the thrid coding challenge: Contributing to Open Source
 
+Daily work in FreeCodeCamp
+
 
 ### Completed Projects
   
@@ -24,7 +26,7 @@ Starting the thrid coding challenge: Contributing to Open Source
 
   [Meghan's-Progress-FreeCodeCamp](https://www.freecodecamp.org/learn/)
  
-- Currently working on Python For Everybody
+- Currently working on **Python For Everybody**: 30/56
 
 - 300 hours total (will most likely finish at the end of the semester)
 
