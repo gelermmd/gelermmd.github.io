@@ -14,7 +14,7 @@ Daily work in FreeCodeCamp
 
 ### Completed Projects
   
-  [Hello-World-Python](https://github.com/gelermmd/Hello-World-Python){target="_blank"}
+  [Hello-World-Python](https://github.com/gelermmd/Hello-World-Python){target="_ blank"}
 
   [PG2KPL-Python](https://github.com/gelermmd/mpg2kpl-python)
 
