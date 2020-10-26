@@ -36,9 +36,9 @@ Daily work in FreeCodeCamp
 
 - **PyNative**
 
--**Stack Overflow**
+- **Stack Overflow**
 
--**PracticePython**
+- **PracticePython**
 
 ### Facts About Me
 
