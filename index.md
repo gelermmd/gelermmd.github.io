@@ -30,6 +30,16 @@ Daily work in FreeCodeCamp
 
 - 300 hours total (will most likely finish at the end of the semester)
 
+
+
+### Other helpful resources
+
+- **PyNative**
+
+-**Stack Overflow**
+
+-**PracticePython**
+
 ### Facts About Me
 
 - I am a sophomore ISAT Major
