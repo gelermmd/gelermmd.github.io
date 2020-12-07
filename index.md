@@ -5,13 +5,17 @@
 
 ### What I am working on this week
 
-Making website updates
+Wrote end of semester reflection
 
-Break from coding challenges
+Uploaded the rest of PyNative Code Library to GitHub
 
 Daily work in FreeCodeCamp
 
-PyNative Coding Practice
+Preparing for Exit Interview Tuesday (12/8)
+
+### End of Semester Reflection
+
+ [ISAT-252-Semester-Reflection](https://docs.google.com/document/d/1ckbC5qCSLIjGuPt81z8a74J_314NukzhQG3G_8DCp90/edit)
 
 
 ### PyNative Code Library
@@ -33,9 +37,9 @@ PyNative Coding Practice
 
   [Meghan's-Progress-FreeCodeCamp](https://www.freecodecamp.org/learn/)
  
-- Currently working on **Python For Everybody**: 30/56
+- Currently working on **Python For Everybody**: 45/56
 
-- 300 hours total (will most likely finish at the end of the semester)
+- 300 hours total (plan to finish after finals week)
 
 
 
@@ -56,6 +60,8 @@ PyNative Coding Practice
 - My older sister and brother both graduated from JMU
 
 - ISAT 252 is the first programming class I have ever taken
+
+- Discovered that I can enjoy coding throughout this semester
 
 - My goal in ISAT is to concentrate in Biotech
 
